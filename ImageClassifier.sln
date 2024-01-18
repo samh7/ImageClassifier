@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassifier", "ImageClassifier\ImageClassifier.csproj", "{3380473C-6815-491F-86A1-C7907584F7B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassifier_ML", "ImageClassifier_ML\ImageClassifier_ML.csproj", "{F47FEFD6-E55C-4E3B-9D31-941DF86B6077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3380473C-6815-491F-86A1-C7907584F7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3380473C-6815-491F-86A1-C7907584F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3380473C-6815-491F-86A1-C7907584F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3380473C-6815-491F-86A1-C7907584F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47FEFD6-E55C-4E3B-9D31-941DF86B6077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47FEFD6-E55C-4E3B-9D31-941DF86B6077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47FEFD6-E55C-4E3B-9D31-941DF86B6077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47FEFD6-E55C-4E3B-9D31-941DF86B6077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E318B9F1-2BD3-4F6E-921F-E2E0C6AECE76}
+	EndGlobalSection
+EndGlobal
